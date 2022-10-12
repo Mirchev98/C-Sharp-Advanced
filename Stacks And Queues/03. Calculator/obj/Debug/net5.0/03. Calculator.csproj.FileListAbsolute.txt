@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\bin\Debug\net5.0\03. Calculator.exe
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\bin\Debug\net5.0\03. Calculator.deps.json
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\bin\Debug\net5.0\03. Calculator.runtimeconfig.json
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\bin\Debug\net5.0\03. Calculator.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\bin\Debug\net5.0\03. Calculator.dll
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\bin\Debug\net5.0\03. Calculator.pdb
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\obj\Debug\net5.0\03. Calculator.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\obj\Debug\net5.0\03. Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\obj\Debug\net5.0\03. Calculator.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\obj\Debug\net5.0\03. Calculator.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\obj\Debug\net5.0\03. Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\obj\Debug\net5.0\03. Calculator.dll
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\obj\Debug\net5.0\refint\03. Calculator.dll
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\obj\Debug\net5.0\03. Calculator.pdb
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\obj\Debug\net5.0\03. Calculator.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Stacks And Queues\03. Calculator\obj\Debug\net5.0\ref\03. Calculator.dll

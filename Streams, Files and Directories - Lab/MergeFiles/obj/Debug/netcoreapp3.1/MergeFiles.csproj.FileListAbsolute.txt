@@ -1,0 +1,14 @@
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache

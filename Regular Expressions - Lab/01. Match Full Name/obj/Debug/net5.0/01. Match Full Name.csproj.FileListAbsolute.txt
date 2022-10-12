@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.exe
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.deps.json
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.runtimeconfig.json
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.dll
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.pdb
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.dll
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\refint\01. Match Full Name.dll
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.pdb
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\ref\01. Match Full Name.dll

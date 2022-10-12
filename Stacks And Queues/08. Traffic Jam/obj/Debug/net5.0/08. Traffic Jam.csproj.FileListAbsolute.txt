@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\bin\Debug\net5.0\08. Traffic Jam.exe
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\bin\Debug\net5.0\08. Traffic Jam.deps.json
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\bin\Debug\net5.0\08. Traffic Jam.runtimeconfig.json
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\bin\Debug\net5.0\08. Traffic Jam.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\bin\Debug\net5.0\08. Traffic Jam.dll
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\bin\Debug\net5.0\08. Traffic Jam.pdb
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\obj\Debug\net5.0\08. Traffic Jam.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\obj\Debug\net5.0\08. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\obj\Debug\net5.0\08. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\obj\Debug\net5.0\08. Traffic Jam.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\obj\Debug\net5.0\08. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\obj\Debug\net5.0\08. Traffic Jam.dll
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\obj\Debug\net5.0\refint\08. Traffic Jam.dll
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\obj\Debug\net5.0\08. Traffic Jam.pdb
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\obj\Debug\net5.0\08. Traffic Jam.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Stacks And Queues\08. Traffic Jam\obj\Debug\net5.0\ref\08. Traffic Jam.dll

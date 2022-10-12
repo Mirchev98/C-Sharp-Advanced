@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/vSd3+6mgxQvOUMlAaSqlyAn56AB44f5EZBMvtcev+0v7wehnBc7Vx3zxXfx6HoZV4HMP1fsPiB5J/UeWKmhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdmir\\source\\repos\\Sets and Dictionaries Advanced - Lab\\07. Parking Lot\\07. Parking Lot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdmir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

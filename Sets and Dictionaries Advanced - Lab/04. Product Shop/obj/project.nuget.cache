@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1oXhXXBDYDbY+sVjohNtWYTrw1+D+9Z/UZkuaS1IYpUJ2fjhSFIErM4u/hScxZ0m547IEftq0tyCCucBr4pUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdmir\\source\\repos\\Sets and Dictionaries Advanced - Lab\\04. Product Shop\\04. Product Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdmir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

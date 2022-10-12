@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\bin\Debug\net5.0\02. Basic Queue Operations.exe
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\bin\Debug\net5.0\02. Basic Queue Operations.deps.json
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\bin\Debug\net5.0\02. Basic Queue Operations.runtimeconfig.json
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\bin\Debug\net5.0\02. Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\bin\Debug\net5.0\02. Basic Queue Operations.dll
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\bin\Debug\net5.0\02. Basic Queue Operations.pdb
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.dll
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\obj\Debug\net5.0\refint\02. Basic Queue Operations.dll
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.pdb
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\02. Basic Queue Operations\obj\Debug\net5.0\ref\02. Basic Queue Operations.dll

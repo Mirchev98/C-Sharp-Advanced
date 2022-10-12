@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HHFSp5i5jsEimqKowjiQ40fcNQZoDV1qdJxpwJq0NSjKaMFSQqxr8d4sURVKYFTm1VrFPOcsiEsyZjN4XUm29w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdmir\\source\\repos\\Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdmir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

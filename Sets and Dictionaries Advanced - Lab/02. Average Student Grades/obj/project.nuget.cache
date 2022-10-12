@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pq0+NX6ck/iFieisp07KWQ1XL4ymCbgWcWH7rE6ggFnlz9EbhhTnDwpLP+ponUfwiBpas5AKnBVH0xM+dmEj1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdmir\\source\\repos\\Sets and Dictionaries Advanced - Lab\\02. Average Student Grades\\02. Average Student Grades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdmir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

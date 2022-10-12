@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\bin\Debug\net5.0\02. Squares in Matrix.exe
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\bin\Debug\net5.0\02. Squares in Matrix.deps.json
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\bin\Debug\net5.0\02. Squares in Matrix.runtimeconfig.json
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\bin\Debug\net5.0\02. Squares in Matrix.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\bin\Debug\net5.0\02. Squares in Matrix.dll
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\bin\Debug\net5.0\02. Squares in Matrix.pdb
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.dll
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\net5.0\refint\02. Squares in Matrix.dll
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.pdb
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\02. Squares in Matrix\obj\Debug\net5.0\ref\02. Squares in Matrix.dll

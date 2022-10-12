@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g2mvP7H6cOUnelXRoQn314R3bOPY+mHrlsCA8WOlAf5BZLP2RytzE1D+xOFWnjU1OtHUOj84HjGjsMrTURCjeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdmir\\source\\repos\\Sets and Dictionaries Advanced - Lab\\03. Largest 3 Numbers\\03. Largest 3 Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdmir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

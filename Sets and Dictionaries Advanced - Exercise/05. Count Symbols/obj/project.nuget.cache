@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z/2URKPABpcECl44nN5/yDkIFuR0TWgHFNIiKUmxHpNI0oIUllEnyIfhq/7j4VKW0PGoLcJWK/oTlWhG0a7C5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdmir\\source\\repos\\Sets and Dictionaries Advanced - Exercise\\05. Count Symbols\\05. Count Symbols.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdmir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

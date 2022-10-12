@@ -1,0 +1,14 @@
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\mdmir\source\repos\01. Define a Class Person\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.genruntimeconfig.cache

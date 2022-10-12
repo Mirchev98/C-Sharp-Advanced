@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.exe
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.deps.json
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.runtimeconfig.json
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.dll
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.pdb
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.dll
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\refint\06. Extract Emails.dll
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.pdb
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\ref\06. Extract Emails.dll

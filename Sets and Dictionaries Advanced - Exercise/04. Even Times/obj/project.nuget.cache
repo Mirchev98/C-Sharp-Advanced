@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZKOb9HGKT0Wq/jzDx/lrSq3mwMZiZbsMjCI3WPePyFtO8xQC5TIdw5bUNwUH8z9XaP3BBiNVeR12DVOGf1ZcFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdmir\\source\\repos\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdmir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

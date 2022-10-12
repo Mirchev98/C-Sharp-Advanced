@@ -1,0 +1,14 @@
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.exe
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.deps.json
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.runtimeconfig.json
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.dll
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.pdb
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.dll
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.pdb
+C:\Users\mdmir\source\repos\01. Define a Class Person\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.genruntimeconfig.cache

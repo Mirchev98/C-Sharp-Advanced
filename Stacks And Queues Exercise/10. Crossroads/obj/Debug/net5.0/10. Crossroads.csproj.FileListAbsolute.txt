@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\bin\Debug\net5.0\10. Crossroads.exe
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\bin\Debug\net5.0\10. Crossroads.deps.json
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\bin\Debug\net5.0\10. Crossroads.runtimeconfig.json
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\bin\Debug\net5.0\10. Crossroads.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\bin\Debug\net5.0\10. Crossroads.dll
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\bin\Debug\net5.0\10. Crossroads.pdb
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.dll
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\obj\Debug\net5.0\refint\10. Crossroads.dll
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.pdb
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Stacks And Queues Exercise\10. Crossroads\obj\Debug\net5.0\ref\10. Crossroads.dll

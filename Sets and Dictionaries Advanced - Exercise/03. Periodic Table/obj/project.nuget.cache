@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6h5n1WpWoOOxu8Yw/acgsNpQck0+DCctTriNRG/xG2ve+cSRqOFdXxBbuYB4ahKtyfnI+d9lxKn91pH5qiBvjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdmir\\source\\repos\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdmir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "erXPkQHWexQi+rp9OyP9kttlNiKsLJsTLvlKhQNvH8n3f9aeneJt0hQWczjyen6euLI7eX3uUazMgXiIs6uybg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdmir\\source\\repos\\Sets and Dictionaries Advanced - Lab\\05. Cities by Continent and Country\\05. Cities by Continent and Country.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdmir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

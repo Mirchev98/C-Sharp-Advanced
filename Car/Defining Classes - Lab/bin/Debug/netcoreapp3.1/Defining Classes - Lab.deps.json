@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Defining Classes - Lab/1.0.0": {
+        "runtime": {
+          "Defining Classes - Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Defining Classes - Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\bin\Debug\netcoreapp3.1\09.PokemonTrainer.exe
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\bin\Debug\netcoreapp3.1\09.PokemonTrainer.deps.json
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\bin\Debug\netcoreapp3.1\09.PokemonTrainer.runtimeconfig.json
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\bin\Debug\netcoreapp3.1\09.PokemonTrainer.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\bin\Debug\netcoreapp3.1\09.PokemonTrainer.dll
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\bin\Debug\netcoreapp3.1\09.PokemonTrainer.pdb
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.dll
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.pdb
+C:\Users\mdmir\source\repos\01. Define a Class Person\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.exe
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.deps.json
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.runtimeconfig.json
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.dll
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.pdb
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.dll
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\obj\Debug\net5.0\refint\05. Snake Moves.dll
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.pdb
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays Exercise\05. Snake Moves\obj\Debug\net5.0\ref\05. Snake Moves.dll

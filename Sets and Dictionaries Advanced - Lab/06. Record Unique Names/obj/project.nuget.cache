@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OM+f/ddJflfCCIcsd04k/ZaOgb+VvG0fxfirlkEh2o3aXJFhBG723k7QsBD9AK2GlDO0coPCBCDSZhvj8jG9jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdmir\\source\\repos\\Sets and Dictionaries Advanced - Lab\\06. Record Unique Names\\06. Record Unique Names.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdmir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

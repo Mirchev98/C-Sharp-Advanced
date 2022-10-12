@@ -1,0 +1,14 @@
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\bin\Debug\netcoreapp3.1\Defining Classes - Lab.exe
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\bin\Debug\netcoreapp3.1\Defining Classes - Lab.deps.json
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\bin\Debug\netcoreapp3.1\Defining Classes - Lab.runtimeconfig.json
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\bin\Debug\netcoreapp3.1\Defining Classes - Lab.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\bin\Debug\netcoreapp3.1\Defining Classes - Lab.dll
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\bin\Debug\netcoreapp3.1\Defining Classes - Lab.pdb
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\obj\Debug\netcoreapp3.1\Defining Classes - Lab.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\obj\Debug\netcoreapp3.1\Defining Classes - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\obj\Debug\netcoreapp3.1\Defining Classes - Lab.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\obj\Debug\netcoreapp3.1\Defining Classes - Lab.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\obj\Debug\netcoreapp3.1\Defining Classes - Lab.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\obj\Debug\netcoreapp3.1\Defining Classes - Lab.dll
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\obj\Debug\netcoreapp3.1\Defining Classes - Lab.pdb
+C:\Users\mdmir\source\repos\Car\Defining Classes - Lab\obj\Debug\netcoreapp3.1\Defining Classes - Lab.genruntimeconfig.cache

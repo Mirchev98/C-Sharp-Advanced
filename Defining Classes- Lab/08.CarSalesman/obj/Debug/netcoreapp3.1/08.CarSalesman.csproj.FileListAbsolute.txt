@@ -1,0 +1,14 @@
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.exe
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.deps.json
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.json
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.dll
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.pdb
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.dll
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.pdb
+C:\Users\mdmir\source\repos\01. Define a Class Person\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.genruntimeconfig.cache

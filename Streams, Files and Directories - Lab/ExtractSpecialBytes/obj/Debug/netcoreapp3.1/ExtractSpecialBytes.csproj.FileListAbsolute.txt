@@ -1,0 +1,14 @@
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.exe
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.deps.json
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.runtimeconfig.json
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.genruntimeconfig.cache

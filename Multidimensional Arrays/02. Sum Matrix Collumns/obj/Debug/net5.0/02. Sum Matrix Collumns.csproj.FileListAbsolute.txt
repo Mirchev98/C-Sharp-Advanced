@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\bin\Debug\net5.0\02. Sum Matrix Collumns.exe
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\bin\Debug\net5.0\02. Sum Matrix Collumns.deps.json
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\bin\Debug\net5.0\02. Sum Matrix Collumns.runtimeconfig.json
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\bin\Debug\net5.0\02. Sum Matrix Collumns.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\bin\Debug\net5.0\02. Sum Matrix Collumns.dll
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\bin\Debug\net5.0\02. Sum Matrix Collumns.pdb
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\obj\Debug\net5.0\02. Sum Matrix Collumns.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\obj\Debug\net5.0\02. Sum Matrix Collumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\obj\Debug\net5.0\02. Sum Matrix Collumns.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\obj\Debug\net5.0\02. Sum Matrix Collumns.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\obj\Debug\net5.0\02. Sum Matrix Collumns.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\obj\Debug\net5.0\02. Sum Matrix Collumns.dll
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\obj\Debug\net5.0\refint\02. Sum Matrix Collumns.dll
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\obj\Debug\net5.0\02. Sum Matrix Collumns.pdb
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\obj\Debug\net5.0\02. Sum Matrix Collumns.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays\02. Sum Matrix Collumns\obj\Debug\net5.0\ref\02. Sum Matrix Collumns.dll

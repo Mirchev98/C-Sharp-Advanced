@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\net5.0\05. Square with Maximum Sum.exe
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\net5.0\05. Square with Maximum Sum.deps.json
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\net5.0\05. Square with Maximum Sum.runtimeconfig.json
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\net5.0\05. Square with Maximum Sum.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\net5.0\05. Square with Maximum Sum.dll
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\net5.0\05. Square with Maximum Sum.pdb
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net5.0\05. Square with Maximum Sum.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net5.0\05. Square with Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net5.0\05. Square with Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net5.0\05. Square with Maximum Sum.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net5.0\05. Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net5.0\05. Square with Maximum Sum.dll
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net5.0\refint\05. Square with Maximum Sum.dll
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net5.0\05. Square with Maximum Sum.pdb
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net5.0\05. Square with Maximum Sum.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net5.0\ref\05. Square with Maximum Sum.dll

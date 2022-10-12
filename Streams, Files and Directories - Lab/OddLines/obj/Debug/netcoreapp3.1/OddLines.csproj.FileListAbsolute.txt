@@ -1,0 +1,14 @@
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.exe
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.deps.json
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.json
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.dll
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.pdb
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.dll
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.pdb
+C:\Users\mdmir\source\repos\Streams, Files and Directories - Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.genruntimeconfig.cache
